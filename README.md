@@ -1,4 +1,4 @@
-# IBMS ummer Project
+# IBM Summer Project
 Social Media Influencer Analytics Platform
 
 This project focuses on analyzing influencer profile data, follower engagement metrics, content performance history, and audience demographic breakdowns to evaluate the true marketing value of social media influencers. Using data analytics, visualization, and scoring models, the system provides insights
